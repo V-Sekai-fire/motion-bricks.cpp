@@ -40,3 +40,4 @@ mujoco/.pixi/
 /mujoco/runs/
 /mujoco/policies/
 /mujoco/logs/
+/build-linux/
